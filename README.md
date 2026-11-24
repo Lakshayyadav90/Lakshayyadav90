@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I am Lakshay Yadav! 👋
 
-<!--
-**Lakshayyadav90/Lakshayyadav90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 B.Tech CSE (AI & ML) student at K.R. Mangalam University.
+- 💻 Currently learning Python, Linux Shell Scripting and Git/GitHub.
+- 🚀 Interested in Artificial Intelligence, Machine Learning and Software Development.
+- 📚 Working on building practical skills through academic labs and projects.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Technologies |
+|---|---|
+| Languages | Python (Beginner), Bash / Shell |
+| Tools | Git, GitHub, VS Code, Linux Terminal |
+| Concepts | File Systems, Process Management, REST APIs, JSON, Markdown |
+
+## Featured Projects
+- **CSE103 Lab 3** — Git workflows, API interaction and Markdown documentation.
+  - Repository: https://github.com/Lakshayyadav90/cse103-lab-LAB3
+
+## Currently Working On
+- Semester 1 programming and technical labs.
+- Improving Python and problem-solving skills.
+- Building my beginner developer portfolio.
+
+## Connect With Me
+- LinkedIn: [Add your LinkedIn profile URL]
+- GitHub: https://github.com/Lakshayyadav90
+- Email: [Add your email]
