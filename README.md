@@ -24,6 +24,6 @@
 - Building my beginner developer portfolio.
 
 ## Connect With Me
-- LinkedIn: [Add your LinkedIn profile URL]
+- LinkedIn: www.linkedin.com/in/lakshay-yadav-526403431
 - GitHub: https://github.com/Lakshayyadav90
-- Email: [Add your email]
+- Email:mayankyadav1906@gmail.com
