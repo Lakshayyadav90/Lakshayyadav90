@@ -1,89 +1,77 @@
 <div align="center">
 
-# 👋 Hi, I'm Lakshay Yadav
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:050816,50:111C44,100:00D9FF&text=LAKSHAY%20YADAV&fontColor=FFFFFF&fontSize=55&fontAlignY=45&animation=fadeIn&desc=AI%20%26%20ML%20DEVELOPER%20IN%20PROGRESS&descSize=17&descAlignY=65" />
 
-### 💻 B.Tech CSE | Artificial Intelligence & Machine Learning
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Beginner+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Python+%7C+Linux+%7C+Git+%F0%9F%92%BB;Learning+Something+New+Every+Day+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Lakshay+Yadav;B.Tech+CSE+%7C+Artificial+Intelligence;Machine+Learning+Enthusiast;Building+My+Future+With+Code;Turning+Ideas+Into+Reality+%E2%9A%A1" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lakshayyadav90-181717?style=for-the-badge&logo=github)](https://github.com/Lakshayyadav90)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github)](https://github.com/Lakshayyadav90)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lakshay-yadav-526403431/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:mayankyadav1906@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 B.Tech CSE (AI & ML) student at **K.R. Mangalam University**.
-- 💻 Currently learning **Python, Linux Shell Scripting and Git/GitHub**.
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 🌱 Improving my programming and problem-solving skills.
-- 🔭 Working on academic labs and beginner developer projects.
-- 🎯 Goal: Become a skilled Software Developer and AI Engineer.
+## 👨‍💻 About Me
+
+Hey! I'm **Lakshay Yadav**, a passionate Computer Science student exploring the world of technology.
+
+🎓 B.Tech CSE (AI & ML)  
+🏫 K.R. Mangalam University  
+🤖 Interested in Artificial Intelligence  
+💻 Learning Python & Linux  
+⚡ Exploring Git, GitHub & Development  
+🚀 Building projects and improving every day.
+
+<br clear="right"/>
 
 ---
 
-## 💻 Technical Skills
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### Programming Languages
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,bash" />
 
-### Tools & Technologies
+### 🛠️ Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,html,css" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+### 🌐 Web Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 </div>
 
-### Knowledge
-
-- Python Programming
-- Linux Terminal & Shell Scripting
-- Git Version Control
-- GitHub Collaboration
-- REST API Interaction
-- JSON & Markdown
-- File Systems & Process Management
-
 ---
 
-## 📂 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔹 CSE103 Lab 3
-
-Git workflows, API interaction and Markdown documentation.
-
-[![Repository](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Lakshayyadav90/cse103-lab-LAB3)
-
-</td>
-<td width="50%">
-
-### 🔹 Developer Portfolio
-
-My beginner developer portfolio showcasing my learning journey and projects.
-
-[![Repository](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Lakshayyadav90/DeveloperPortfolio)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lakshayyadav90&show_icons=true&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Lakshayyadav90/DeveloperPortfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshayyadav90&repo=DeveloperPortfolio&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Lakshayyadav90/cse103-lab-LAB3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshayyadav90&repo=cse103-lab-LAB3&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lakshayyadav90&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshayyadav90&theme=tokyonight&hide_border=true" />
 
@@ -95,37 +83,61 @@ My beginner developer portfolio showcasing my learning journey and projects.
 
 ---
 
-## 🎯 Currently Working On
+## 🐍 Contribution Activity
 
-- 📚 Semester 1 programming and technical labs.
-- 🐍 Improving Python programming.
-- 🐧 Learning Linux and Shell Scripting.
-- 🔗 Understanding Git and GitHub.
-- 🚀 Building my developer portfolio.
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Current Mission
+
+```python
+class Lakshay:
+    def __init__(self):
+        self.name = "Lakshay Yadav"
+        self.education = "B.Tech CSE (AI & ML)"
+        self.university = "K.R. Mangalam University"
+        self.learning = [
+            "Python",
+            "Linux",
+            "Git & GitHub",
+            "Artificial Intelligence",
+            "Machine Learning"
+        ]
+
+    def future_goal(self):
+        return "Become a Skilled AI Engineer 🚀"
+
+
+me = Lakshay()
+print(me.future_goal())
+```
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/Lakshayyadav90">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/lakshay-yadav-526403431/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:mayankyadav1906@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-### 💡 "Consistency is the key to becoming a great developer."
-
-<img src="https://komarev.com/ghpvc/?username=Lakshayyadav90&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Lakshayyadav90&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" />
 
 </div>
 
@@ -133,8 +145,10 @@ My beginner developer portfolio showcasing my learning journey and projects.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:00D9FF&height=120&section=footer" />
 
-**Keep Learning. Keep Building. Keep Growing. 🚀**
+### ⚡ CODE • CREATE • INNOVATE
+
+**"Dream Big. Build Bigger."**
 
 </div>
