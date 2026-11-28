@@ -1,49 +1,64 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:050816,50:111C44,100:00D9FF&text=LAKSHAY%20YADAV&fontColor=FFFFFF&fontSize=55&fontAlignY=45&animation=fadeIn&desc=AI%20%26%20ML%20DEVELOPER%20IN%20PROGRESS&descSize=17&descAlignY=65" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Lakshay+Yadav;B.Tech+CSE+%7C+Artificial+Intelligence;Machine+Learning+Enthusiast;Building+My+Future+With+Code;Turning+Ideas+Into+Reality+%E2%9A%A1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,40:172554,100:06B6D4&text=LAKSHAY%20YADAV&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=BUILDING%20THE%20FUTURE%20WITH%20CODE&descSize=16&descAlignY=65"/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github)](https://github.com/Lakshayyadav90)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lakshay-yadav-526403431/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:mayankyadav1906@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Lakshay+Yadav+%F0%9F%91%8B;B.Tech+CSE+%7C+AI+%26+ML;Future+AI+Engineer+%F0%9F%A4%96;Code.+Learn.+Build.+Repeat.+%E2%9A%A1" />
 
 </div>
 
----
+<br>
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="assets/lakshay-profile.jpg" width="220" alt="Lakshay Yadav"/>
+
+### LAKSHAY YADAV
+
+**AI & ML STUDENT**
+
+</td>
+
+<td width="65%">
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Lakshay Yadav**, a passionate Computer Science student exploring the world of technology.
+Hello World! I'm **Lakshay Yadav**.
 
-🎓 B.Tech CSE (AI & ML)  
-🏫 K.R. Mangalam University  
-🤖 Interested in Artificial Intelligence  
-💻 Learning Python & Linux  
-⚡ Exploring Git, GitHub & Development  
-🚀 Building projects and improving every day.
+🎓 B.Tech CSE (AI & ML) student at K.R. Mangalam University.
 
-<br clear="right"/>
+🤖 Exploring Artificial Intelligence & Machine Learning.
+
+🐍 Learning Python and Linux Shell Scripting.
+
+⚡ Practicing Git, GitHub and Software Development.
+
+🚀 Turning ideas into practical projects.
+
+🎯 My goal is to become a skilled AI Engineer.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ MY TECH STACK
 
 <div align="center">
 
-### 💻 Programming Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,bash" />
 
-### 🛠️ Developer Tools
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
-### 🌐 Web Technologies
+### Currently Exploring
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
@@ -51,56 +66,58 @@ Hey! I'm **Lakshay Yadav**, a passionate Computer Science student exploring the 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 FEATURED PROJECTS
 
 <div align="center">
 
 <a href="https://github.com/Lakshayyadav90/DeveloperPortfolio">
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshayyadav90&repo=DeveloperPortfolio&theme=tokyonight&hide_border=true" />
+
 </a>
 
 <a href="https://github.com/Lakshayyadav90/cse103-lab-LAB3">
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshayyadav90&repo=cse103-lab-LAB3&theme=tokyonight&hide_border=true" />
+
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lakshayyadav90&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lakshayyadav90&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshayyadav90&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshayyadav90&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshayyadav90&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshayyadav90&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🌌 DEVELOPER MODE
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+<img width="80%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 </div>
 
----
-
-## 🎯 Current Mission
-
 ```python
-class Lakshay:
+class LakshayYadav:
+
     def __init__(self):
         self.name = "Lakshay Yadav"
-        self.education = "B.Tech CSE (AI & ML)"
+        self.role = "AI & ML Student"
         self.university = "K.R. Mangalam University"
+
         self.learning = [
             "Python",
             "Linux",
@@ -109,35 +126,45 @@ class Lakshay:
             "Machine Learning"
         ]
 
-    def future_goal(self):
-        return "Become a Skilled AI Engineer 🚀"
+    def my_goal(self):
+        return "Build something extraordinary 🚀"
 
 
-me = Lakshay()
-print(me.future_goal())
+developer = LakshayYadav()
+print(developer.my_goal())
 ```
 
 ---
 
-## 🌐 Let's Connect
+## 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshayyadav90&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🤝 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/Lakshayyadav90">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/lakshay-yadav-526403431/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:mayankyadav1906@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Lakshayyadav90&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Lakshayyadav90&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -145,10 +172,10 @@ print(me.future_goal())
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:00D9FF&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:06B6D4&height=120&section=footer"/>
 
-### ⚡ CODE • CREATE • INNOVATE
+### ⚡ THINK • CODE • INNOVATE
 
-**"Dream Big. Build Bigger."**
+**"The future belongs to those who build it."**
 
 </div>
